@@ -23,4 +23,4 @@ Today, I help organizations achieve **trust, compliance, and resilience** throug
 - 🔍 **DisclosureX** – Vulnerability research & ethical hacking (helping WHO, KiwiBank, UNESCO, Philips, and more).
 
 **Featured Repos:**  
-[cybrgen-nznl](https://github.com/CybrGenKP/cybrgen-nznl) • [VRA_Mod](https://github.com/CybrGenKP/VRA_Mod) • [kiwi-contact-capture](https://github.com/CybrGenKP/kiwi-contact-capture)
+[VRA_Mod](https://github.com/CybrGenKP/VRA_Mod) 
